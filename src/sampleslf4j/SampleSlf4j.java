@@ -20,7 +20,7 @@ final static Logger logger = LoggerFactory.getLogger(SampleSlf4j.class);
    public static void main(String[] args) {
     
     
-    logger.debug("debug message");
+    logger.debug("de.bu.g me.ss.age");
     logger.info("info message");
     logger.warn("warn message");
     logger.error("error message");
